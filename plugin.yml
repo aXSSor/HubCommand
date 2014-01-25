@@ -1,0 +1,4 @@
+name: HubCommand
+main: io.github.aXSSor.HubCommand.Main
+version: 0.1
+author: aXSSor
